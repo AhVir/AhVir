@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhVir&show_icons=true&locale=en" alt="AhVir" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhVir&" alt="AhVir" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhVir&" alt="AhVir" /></p>
+-->
