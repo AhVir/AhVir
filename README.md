@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- CODEFORCES -->
-<p align="left">&nbsp;<img align="left" src="https://codeforces-readme-stats.vercel.app/api/card?username=AhVir" alt="AhVir" /></p>
+<p align="center">&nbsp;<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=AhVir" alt="AhVir" /></p>
 <!-- LEETCODE -->
-<p align="right">&nbsp;<img align="right" src="https://leetcard.jacoblin.cool/AhVir?ext=heatmap" alt="AhVir" /></p>
+<p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/AhVir?ext=heatmap" alt="AhVir" /></p>
