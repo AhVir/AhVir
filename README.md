@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhVir&" alt="AhVir" /></p>
 -->
 
+<!--
 <!-- CODEFORCES -->
 <p align="center">&nbsp;<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=AhVir" alt="AhVir" /></p>
 <!-- LEETCODE -->
 <p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/AhVir?ext=heatmap" alt="AhVir" /></p>
+
+-->
