@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 <!-- <p align="center">&nbsp;<img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=AhVir" alt="AhVir" /></p> -->
 <!-- LEETCODE -->
 <!-- <p align="center">&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/AhVir?ext=heatmap" alt="AhVir" /></p> -->
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhVir&label=Profile%20views&color=0e75b6&style=flat" alt="AhVir" /> </p>
