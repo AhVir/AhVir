@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AhVir&show_icons=true&locale=en&layout=compact" alt="AhVir" /></p>
+
+-->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvir&size_weight=0.5&count_weight=0.5" alt="AhVir" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhVir&show_icons=true&locale=en" alt="AhVir" /></p>
 
