@@ -6,7 +6,7 @@ I've come across these quotes and wanted to place them somewhere visible on a re
 
 ---
 
-## - Quotes
+## Quotes
 
 > "Two things define you. Your patience when you have nothing, your attitude when you have everything."  
 — **Imam Ali (A.S)**
