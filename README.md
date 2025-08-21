@@ -1,7 +1,7 @@
 <p align="center">⌯⌲ https://ahvir.github.io/ </p>
 
 ---
-
+<!--
 I've come across these quotes and wanted to place them somewhere visible on a regular basis — this felt like the right place.
 
 ---
@@ -23,3 +23,4 @@ I've come across these quotes and wanted to place them somewhere visible on a re
 > "Sometimes you have to let silence talk, even when you have a lot to say."
 
 > "If you went back in time and fixed all of your past mistakes, you would erase yourself."
+-->
